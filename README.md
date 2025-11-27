@@ -47,7 +47,7 @@ Follow these steps to install, configure, and run the bot on your Discord server
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/Soteria-Network/Soteria-Discord-Bot.git
+git clone https://github.com/Soteria-Network/Discord-Bot-for-Soteria-Network.git
 cd Soteria-Discord-Bot
 ```
 
